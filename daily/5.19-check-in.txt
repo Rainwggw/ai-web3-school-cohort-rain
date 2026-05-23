@@ -1,0 +1,9 @@
+1. 完成了 Claude Code 的部署，使用 CC Switch 接入了质谱的模型，消耗了一些新用户注册免费赠送的 token；
+
+
+
+2. 参加了今日的线上活动 AI Agent 入门 —— Hermes 从 0 到 1，但并没有什么值得记录的收获；
+
+
+
+3. 将学习网站上提供的 Prompt 发给了 Claude Code，完成了 GitHub 上学习仓库的建立，并试图让 AI 帮我将任务记录归档进 tasks 文件夹以便提交到 GitHub 上。但 AI 似乎并没有很好地完成。
