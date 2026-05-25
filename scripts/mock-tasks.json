@@ -1,0 +1,136 @@
+{
+  "tasks": [
+    {
+      "id": "task_001",
+      "title": "LLM 基础入门",
+      "name": "LLM Fundamentals",
+      "description": "学习大型语言模型的基本概念、架构和原理，了解如何与 Web3 应用结合。",
+      "requirements": [
+        "完成 LLM 基础理论学习",
+        "完成至少 5 个实践练习",
+        "提交学习心得报告"
+      ],
+      "resources": [
+        {
+          "name": "LLM 入门教程",
+          "url": "https://example.com/llm-basics"
+        },
+        {
+          "name": "AI × Web3 Handbook",
+          "url": "https://aiweb3.school/zh/handbook/"
+        }
+      ],
+      "due_date": "2026-06-07",
+      "created_at": "2026-05-18",
+      "status": "active"
+    },
+    {
+      "id": "task_002",
+      "title": "Prompt Engineering 实践",
+      "name": "Prompt Engineering Practice",
+      "description": "掌握提示词工程技巧，学习如何编写有效的 Prompt 来引导 AI 生成期望的结果。",
+      "requirements": [
+        "学习 Prompt 设计原则",
+        "编写 10 个不同场景的 Prompt",
+        "优化 Prompt 效果测试"
+      ],
+      "resources": [
+        {
+          "name": "Prompt Engineering Guide",
+          "url": "https://example.com/prompt-guide"
+        },
+        {
+          "name": "实践案例集",
+          "url": "https://example.com/prompt-examples"
+        }
+      ],
+      "due_date": "2026-06-14",
+      "created_at": "2026-05-18",
+      "status": "active"
+    },
+    {
+      "id": "task_003",
+      "title": "Context Window 管理",
+      "name": "Context Window Management",
+      "description": "学习如何有效管理 AI 的上下文窗口，优化长对话和多轮交互的效果。",
+      "requirements": [
+        "理解 Context Window 机制",
+        "实现上下文管理策略",
+        "优化多轮对话体验"
+      ],
+      "resources": [
+        {
+          "name": "Context 技术文档",
+          "url": "https://example.com/context-docs"
+        }
+      ],
+      "due_date": "2026-06-21",
+      "created_at": "2026-05-18",
+      "status": "active"
+    },
+    {
+      "id": "task_004",
+      "title": "DeFi 协议分析",
+      "name": "DeFi Protocol Analysis",
+      "description": "深入分析主流 DeFi 协议的运作机制，学习如何利用 AI 辅助协议分析和优化。",
+      "requirements": [
+        "分析至少 3 个 DeFi 协议",
+        "使用 AI 工具辅助分析",
+        "提交分析报告"
+      ],
+      "resources": [
+        {
+          "name": "DeFi 协议列表",
+          "url": "https://example.com/defi-protocols"
+        }
+      ],
+      "due_date": "2026-06-28",
+      "created_at": "2026-05-18",
+      "status": "active"
+    },
+    {
+      "id": "task_005",
+      "title": "NFT 智能合约开发",
+      "name": "NFT Smart Contract Development",
+      "description": "使用 AI 辅助开发 NFT 智能合约，包括合约设计、实现和部署。",
+      "requirements": [
+        "设计 NFT 合约架构",
+        "使用 AI 生成合约代码",
+        "完成测试和部署"
+      ],
+      "resources": [
+        {
+          "name": "Solidity 教程",
+          "url": "https://example.com/solidity-tutorial"
+        },
+        {
+          "name": "OpenZeppelin 合约",
+          "url": "https://openzeppelin.com/contracts/"
+        }
+      ],
+      "due_date": "2026-07-05",
+      "created_at": "2026-05-18",
+      "status": "active"
+    },
+    {
+      "id": "task_006",
+      "title": "AI Agent 部署实践",
+      "name": "AI Agent Deployment Practice",
+      "description": "实践部署 AI Agent，包括环境配置、模型选择和系统集成。",
+      "requirements": [
+        "配置 Agent 运行环境",
+        "选择合适的 AI 模型",
+        "集成 Web3 工具链"
+      ],
+      "resources": [
+        {
+          "name": "Agent 部署指南",
+          "url": "https://example.com/agent-deployment"
+        }
+      ],
+      "due_date": "2026-07-12",
+      "created_at": "2026-05-18",
+      "status": "active"
+    }
+  ]
+}
